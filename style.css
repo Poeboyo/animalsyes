@@ -1,0 +1,24 @@
+h1 {
+    font-family: cursive, 'Times New Roman', Times, serif, bold;
+    text-align: center;
+    color:white
+}
+
+body{
+    background-image: url(https://memestatic.fjcdn.com/pictures/Missing+trash+panda+havent+seen+gypsydude+in+a+while+and_c076dd_6753197.jpg);
+    background-size: cover;
+}
+
+section{
+    text-align: center;
+    margin-top: 100px;
+}
+
+img{
+  height: 300px;
+  width: 300px
+}
+
+p{
+    color: white
+}
